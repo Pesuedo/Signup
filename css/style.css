@@ -5,3 +5,28 @@ body{
 .main-wrapper{
     height: 100vh;
 }
+.get{
+    text-decoration: none;
+    float: right;
+    font-size: 15px;
+    color: #141b16;
+}
+.get:hover{
+    color: #63FF88;
+}
+.even{
+    border-color: #63FF88;
+}
+.btn{
+    border: 1px solid #63FF88;
+}
+.btn:hover{
+    background-color:#63FF88;
+}
+.create{
+    text-decoration: none;
+    color: #63FF88;
+}
+.create:hover{
+    color: #63FF88;
+}
