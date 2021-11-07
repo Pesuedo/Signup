@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
 body{
-    background-color: #000000;
+    font-family: 'Original Surfer', cursive;
+}
+.main-wrapper{
+    height: 100vh;
 }
